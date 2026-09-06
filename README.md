@@ -1,3 +1,4 @@
+<img width="1312" height="1199" alt="project1" src="https://github.com/user-attachments/assets/e50182e5-95cf-4dcd-9266-274db9faf313" />
 # Linux-Server-Administration-Lab
 
 ## 📌 Project Overview
